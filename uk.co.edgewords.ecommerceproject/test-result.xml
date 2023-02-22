@@ -1,0 +1,31 @@
+<test-run id="2" duration="13.780887" testcasecount="1" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" start-time="2023-02-22T 15:01:42Z" end-time="2023-02-22T 15:01:56Z">
+  <test-suite type="Assembly" name="uk.co.edgewords.ecommerceproject.dll" fullname="C:\Users\BillyKeates\source\repos\uk.co.edgewords.ecommerceproject\uk.co.edgewords.ecommerceproject\bin\Debug\net6.0\uk.co.edgewords.ecommerceproject.dll" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" start-time="2023-02-22T 15:01:43Z" end-time="2023-02-22T 15:01:56Z" duration="13.780887">
+    <test-suite type="TestSuite" name="uk" fullname="uk" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" start-time="2023-02-22T 15:01:43Z" end-time="2023-02-22T 15:01:56Z" duration="13.780887">
+      <test-suite type="TestSuite" name="co" fullname="uk.co" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" start-time="2023-02-22T 15:01:43Z" end-time="2023-02-22T 15:01:56Z" duration="13.780887">
+        <test-suite type="TestSuite" name="edgewords" fullname="uk.co.edgewords" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" start-time="2023-02-22T 15:01:43Z" end-time="2023-02-22T 15:01:56Z" duration="13.780887">
+          <test-suite type="TestSuite" name="ecommerceproject" fullname="uk.co.edgewords.ecommerceproject" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" start-time="2023-02-22T 15:01:43Z" end-time="2023-02-22T 15:01:56Z" duration="13.780887">
+            <test-suite type="TestSuite" name="TestCases" fullname="uk.co.edgewords.ecommerceproject.TestCases" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" start-time="2023-02-22T 15:01:43Z" end-time="2023-02-22T 15:01:56Z" duration="13.780887">
+              <test-suite type="TestFixture" name="TestCase1" fullname="uk.co.edgewords.ecommerceproject.TestCases.TestCase1" classname="uk.co.edgewords.ecommerceproject.TestCases.TestCase1" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" start-time="2023-02-22T 15:01:43Z" end-time="2023-02-22T 15:01:56Z" duration="13.780887">
+                <test-case name="Test1" fullname="uk.co.edgewords.ecommerceproject.TestCases.TestCase1.Test1" methodname="Test1" classname="TestCase1" result="Passed" start-time="2023-02-22T 15:01:43Z" end-time="2023-02-22T 15:01:56Z" duration="13.780887" asserts="0" seed="215316668">
+                  <properties>
+                    <property name="Category" value="TestCase1" />
+                  </properties>
+                  <output><![CDATA[Test starting.
+On shop page.
+On cart page.
+8.25, 8.25
+50.7, 50.7
+On My Account page
+Test finished.
+
+]]></output>
+                </test-case>
+              </test-suite>
+            </test-suite>
+          </test-suite>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+    <errors />
+  </test-suite>
+</test-run>
